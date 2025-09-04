@@ -1,4 +1,4 @@
-# GitHub Stats:
+# GitHub Stats
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=taoos01&label=Profile%20views&color=000000&style=flat" alt="Profile views"/>
 </div>
