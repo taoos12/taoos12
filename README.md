@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>GitHub Stats</h1>
+  <h1>GitHub Statistics</h1>
 <!--   <br> -->
 <img src="https://komarev.com/ghpvc/?username=taoos12&label=Profile%20views&color=000000&style=flat" alt="Profile views"/>
 </div>
