@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center">
   <h1>GitHub Statistics</h1>
 <!--   <br> -->
 <img src="https://komarev.com/ghpvc/?username=taoos12&label=Profile%20views&color=000000&style=flat" alt="Profile views"/>
@@ -20,4 +20,4 @@
 
 <!-- <div align="center"> -->
  <!--  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" /> -->
-<!-- </div> -->
+<!-- </div> --> -->
