@@ -1,6 +1,7 @@
+
 <!-- <div align="center">
   <h1>GitHub Statistics</h1>
-<!--   <br> -->
+<br>
 <img src="https://komarev.com/ghpvc/?username=taoos12&label=Profile%20views&color=000000&style=flat" alt="Profile views"/>
 </div>
 
@@ -17,7 +18,6 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/obregonia1/obregonia1/master/img/snake.svg">
 </picture> -->
 
-
-<!-- <div align="center"> -->
- <!--  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" /> -->
-<!-- </div> --> -->
+<!-- <div align="center"> 
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" /> 
+ </div> -->  
