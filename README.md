@@ -1,4 +1,4 @@
-
+<!--
 <div align="center">
   <h1>GitHub Statistics</h1>
 <br>
@@ -20,3 +20,4 @@
  <div align="center"> 
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" /> 
  </div> 
+-->
