@@ -1,4 +1,4 @@
-<!--
+
 <div align="center">
   <h1>GitHub Statistics</h1>
 <br>
@@ -7,10 +7,8 @@
 
 <div align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=taoos12&theme=default&hide_border=false" alt="GitHub Streak Stats"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taoos12&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages"/>
 </div>
-
+<!--
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/obregonia1/obregonia1/master/img/snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/obregonia1/obregonia1/master/img/snake.svg">
