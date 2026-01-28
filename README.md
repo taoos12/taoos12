@@ -1,15 +1,12 @@
 
 <div align="center">
   <h1>GitHub Statistics</h1>
-<br>
-<img src="https://komarev.com/ghpvc/?username=taoos12&label=Profile%20views&color=000000&style=flat" alt="Profile views"/>
-</div>
-
+<!-- <br> -->
 <div align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=taoos12&theme=default&hide_border=false" alt="GitHub Streak Stats"/>
 </div>
-<!--
-<picture>
+  <br>
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/obregonia1/obregonia1/master/img/snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/obregonia1/obregonia1/master/img/snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/obregonia1/obregonia1/master/img/snake.svg">
